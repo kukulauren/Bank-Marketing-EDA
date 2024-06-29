@@ -1,1 +1,1 @@
-# Bank-Markeing-EDA
+# Bank-Marketing-EDA
